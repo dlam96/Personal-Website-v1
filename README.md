@@ -1,6 +1,11 @@
 # Personal-Website-v1
-version 1 of my personal website 
+version 1 of my personal website
+
+Version 2 will be built using React framework
+
 # Credits
-**Vincent Garreau - [particle bg animation](https://vincentgarreau.com/en)**
-**Fournier-Pere - [bird animation](https://fournier-pere-fils.com/home)**
-**Britanny Chiang [Reference](https://brittanychiang.com/)**
+1. **Vincent Garreau - [particle bg animation](https://vincentgarreau.com/en)**
+
+2. **Fournier-Pere - [bird animation](https://fournier-pere-fils.com/home)**
+
+3. **Britanny Chiang [Reference](https://brittanychiang.com/)**
