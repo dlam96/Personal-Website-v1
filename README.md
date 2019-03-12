@@ -7,4 +7,4 @@ I plan on building version 2 using React framework.
 
 2. **Fournier-Pere - [bird animation](https://fournier-pere-fils.com/home)**
 
-3. **Britanny Chiang [Reference](https://brittanychiang.com/)**
+3. **Britanny Chiang - [reference](https://brittanychiang.com/)**
