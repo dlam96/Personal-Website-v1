@@ -1,7 +1,6 @@
-# Personal-Website-v1
-version 1 of my personal website
+# Personal Website v1
 
-Version 2 will be built using React framework
+I plan on building version 2 using React framework.
 
 # Credits
 1. **Vincent Garreau - [particle bg animation](https://vincentgarreau.com/en)**
