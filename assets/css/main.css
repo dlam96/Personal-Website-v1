@@ -128,6 +128,7 @@ div#text{
 }
 
 .section_container{
+	position: relative;
   height:100%;
   min-height: 100vh;
   background-color: rgb(245,245,230);
@@ -447,23 +448,20 @@ footer a:hover{
 }
 
 .main-bird-container {
-	z-index: 100000;
-	position: absolute;
+	z-index: 100;
+	position: relative;
 	overflow: hidden;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	/* // min-height: 100vh; */
-	width: 100%;
-	height: 100%;
-	min-width: 1000px;
-	min-height: 100vh;
-	background-color: transparent;
+	min-height: 25vh;
+	/* min-height: 35rem; */
 	/* background-image: linear-gradient(to bottom,  rgba(255,168,76,0.6) 0%,rgba(255,123,13,0.6) 100%), url('https://images.unsplash.com/photo-1446824505046-e43605ffb17f');
 	background-blend-mode: soft-light; */
 	background-size: cover;
 	background-position: center center;
-	padding: 2rem;
+	/* margin-bottom: 10%; */
+	/* padding: 2rem; */
 }
 
 .b1 {
@@ -498,6 +496,7 @@ footer a:hover{
 	animation-duration: 16s;
 	animation-delay: 10.25s;
 }
+
 .bird {
 	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells.svg);
 	background-size: auto 100%;
@@ -512,7 +511,7 @@ footer a:hover{
 
 .bird-container {
 	position: absolute;
-	top: 80%;
+	top: 0%;
 	left: -10%;
 	transform: scale(0) translateX(-10vw);
 	will-change: transform;
